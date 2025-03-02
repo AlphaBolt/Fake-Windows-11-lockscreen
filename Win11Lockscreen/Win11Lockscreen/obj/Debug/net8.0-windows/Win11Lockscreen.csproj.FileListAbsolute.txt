@@ -16,3 +16,22 @@ C:\Users\pocuser\Desktop\dotnet\New folder\Fake-Windows-11-lockscreen\Win11Locks
 C:\Users\pocuser\Desktop\dotnet\New folder\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.genruntimeconfig.cache
 C:\Users\pocuser\Desktop\dotnet\New folder\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\ref\Win11Lockscreen.dll
 C:\Users\pocuser\Desktop\dotnet\New folder\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.Properties.Resources.resources
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\bin\Debug\net8.0-windows\Win11Lockscreen.exe
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\bin\Debug\net8.0-windows\Win11Lockscreen.deps.json
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\bin\Debug\net8.0-windows\Win11Lockscreen.runtimeconfig.json
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\bin\Debug\net8.0-windows\Win11Lockscreen.dll
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\bin\Debug\net8.0-windows\Win11Lockscreen.pdb
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.Form1.resources
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.Properties.Resources.resources
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.csproj.GenerateResource.cache
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.sourcelink.json
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.dll
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\refint\Win11Lockscreen.dll
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.pdb
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\ref\Win11Lockscreen.dll
+C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.CustomTextBox.resources
