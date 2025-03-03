@@ -35,7 +35,6 @@
             customTextBox1 = new CustomTextBox();
             time_customTextBox = new CustomTextBox();
             date_customTextBox = new CustomTextBox();
-            showOutput = new TextBox();
             ((System.ComponentModel.ISupportInitialize)wifi_pictureBox).BeginInit();
             ((System.ComponentModel.ISupportInitialize)battery_pictureBox).BeginInit();
             ((System.ComponentModel.ISupportInitialize)unlock_pictureBox).BeginInit();
@@ -72,7 +71,7 @@
             unlock_pictureBox.Anchor = AnchorStyles.Top;
             unlock_pictureBox.BackColor = Color.Transparent;
             unlock_pictureBox.Image = (Image)resources.GetObject("unlock_pictureBox.Image");
-            unlock_pictureBox.Location = new Point(456, 81);
+            unlock_pictureBox.Location = new Point(472, 81);
             unlock_pictureBox.Name = "unlock_pictureBox";
             unlock_pictureBox.Size = new Size(64, 64);
             unlock_pictureBox.SizeMode = PictureBoxSizeMode.Zoom;
@@ -88,7 +87,7 @@
             customTextBox1.Enabled = false;
             customTextBox1.Font = new Font("Segoe UI Semibold", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
             customTextBox1.ForeColor = Color.White;
-            customTextBox1.Location = new Point(334, 151);
+            customTextBox1.Location = new Point(350, 151);
             customTextBox1.Name = "customTextBox1";
             customTextBox1.ReadOnly = true;
             customTextBox1.Size = new Size(319, 27);
@@ -128,22 +127,12 @@
             date_customTextBox.Text = "Friday, 31 February";
             date_customTextBox.TextAlign = HorizontalAlignment.Center;
             // 
-            // showOutput
-            // 
-            showOutput.Anchor = AnchorStyles.Top;
-            showOutput.Location = new Point(88, 56);
-            showOutput.Name = "showOutput";
-            showOutput.Size = new Size(150, 31);
-            showOutput.TabIndex = 6;
-            showOutput.Text = "test";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(985, 481);
-            Controls.Add(showOutput);
             Controls.Add(date_customTextBox);
             Controls.Add(time_customTextBox);
             Controls.Add(customTextBox1);
@@ -169,6 +158,5 @@
         private CustomTextBox customTextBox1;
         private CustomTextBox time_customTextBox;
         private CustomTextBox date_customTextBox;
-        private TextBox showOutput;
     }
 }

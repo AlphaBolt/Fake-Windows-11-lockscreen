@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Win11Lockscreen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cad9e9f9a053a0a9655bbc604938fde89f7971b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a6b3383ec60b0c1e45a1eea75d785e9821c697d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Win11Lockscreen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Win11Lockscreen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
