@@ -64,6 +64,7 @@
             battery_pictureBox.SizeMode = PictureBoxSizeMode.Zoom;
             battery_pictureBox.TabIndex = 1;
             battery_pictureBox.TabStop = false;
+            battery_pictureBox.MouseDoubleClick += battery_pictureBox_MouseDoubleClick;
             // 
             // unlock_pictureBox
             // 
@@ -99,7 +100,7 @@
             time_customTextBox.BackColor = Color.Transparent;
             time_customTextBox.BorderStyle = BorderStyle.None;
             time_customTextBox.Enabled = false;
-            time_customTextBox.Font = new Font("Segoe UI Variable Text Semibold", 72F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            time_customTextBox.Font = new Font("Microsoft Sans Serif", 72F, FontStyle.Bold, GraphicsUnit.Point, 0);
             time_customTextBox.ForeColor = Color.White;
             time_customTextBox.Location = new Point(299, 181);
             time_customTextBox.Margin = new Padding(0);
@@ -117,12 +118,12 @@
             date_customTextBox.BackColor = Color.Transparent;
             date_customTextBox.BorderStyle = BorderStyle.None;
             date_customTextBox.Enabled = false;
-            date_customTextBox.Font = new Font("Segoe UI Variable Text Semibold", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            date_customTextBox.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
             date_customTextBox.ForeColor = Color.White;
             date_customTextBox.Location = new Point(362, 376);
             date_customTextBox.Name = "date_customTextBox";
             date_customTextBox.ReadOnly = true;
-            date_customTextBox.Size = new Size(287, 38);
+            date_customTextBox.Size = new Size(287, 32);
             date_customTextBox.TabIndex = 5;
             date_customTextBox.Text = "Friday, 31 February";
             date_customTextBox.TextAlign = HorizontalAlignment.Center;

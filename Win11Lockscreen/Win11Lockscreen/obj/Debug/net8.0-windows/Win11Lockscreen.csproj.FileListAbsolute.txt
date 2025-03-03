@@ -35,3 +35,4 @@ C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lock
 C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.genruntimeconfig.cache
 C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\ref\Win11Lockscreen.dll
 C:\Users\KIIT\Desktop\c sharp\Windows Forms\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.CustomTextBox.resources
+C:\Users\pocuser\Desktop\dotnet\New folder\Fake-Windows-11-lockscreen\Win11Lockscreen\Win11Lockscreen\obj\Debug\net8.0-windows\Win11Lockscreen.CustomTextBox.resources
