@@ -41,8 +41,8 @@ namespace Win11Lockscreen
         {
             using (OpenFileDialog openFileDialog = new OpenFileDialog())
             {
-                openFileDialog.InitialDirectory = folderpath;
-                openFileDialog.Title = "Select a Background Image";
+                //openFileDialog.InitialDirectory = folderpath;
+                //openFileDialog.Title = "Select a Background Image";
 
                 if (openFileDialog.ShowDialog() == DialogResult.OK)
                 {

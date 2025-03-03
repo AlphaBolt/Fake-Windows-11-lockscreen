@@ -107,7 +107,7 @@
             time_customTextBox.Multiline = true;
             time_customTextBox.Name = "time_customTextBox";
             time_customTextBox.ReadOnly = true;
-            time_customTextBox.Size = new Size(391, 167);
+            time_customTextBox.Size = new Size(457, 167);
             time_customTextBox.TabIndex = 4;
             time_customTextBox.Text = "11:03";
             time_customTextBox.TextAlign = HorizontalAlignment.Center;

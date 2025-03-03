@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|c:\\users\\pocuser\\desktop\\dotnet\\new folder\\fake-windows-11-lockscreen\\win11lockscreen\\win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|c:\\users\\pocuser\\desktop\\dotnet\\new folder\\fake-windows-11-lockscreen\\win11lockscreen\\win11lockscreen\\customtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\customtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|c:\\users\\pocuser\\desktop\\dotnet\\new folder\\fake-windows-11-lockscreen\\win11lockscreen\\win11lockscreen\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|c:\\users\\pocuser\\desktop\\dotnet\\new folder\\fake-windows-11-lockscreen\\win11lockscreen\\win11lockscreen\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|c:\\users\\pocuser\\desktop\\dotnet\\new folder\\fake-windows-11-lockscreen\\win11lockscreen\\win11lockscreen\\customtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\customtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CustomTextBox.Designer.cs",
               "DocumentMoniker": "C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\Win11Lockscreen\\CustomTextBox.Designer.cs",
               "RelativeDocumentMoniker": "Win11Lockscreen\\CustomTextBox.Designer.cs",
@@ -58,7 +54,8 @@
               "RelativeToolTip": "Win11Lockscreen\\CustomTextBox.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T17:22:33.647Z"
+              "WhenOpened": "2025-03-02T17:22:33.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,14 +65,14 @@
               "RelativeDocumentMoniker": "Win11Lockscreen\\Form1.cs",
               "ToolTip": "C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\Win11Lockscreen\\Form1.cs",
               "RelativeToolTip": "Win11Lockscreen\\Form1.cs",
-              "ViewState": "AgIAACAAAABgMzMzM9MwwDYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAADgY2ZmZmYBwCwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T06:36:52.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\Win11Lockscreen\\Form1.cs",
               "RelativeDocumentMoniker": "Win11Lockscreen\\Form1.cs",
@@ -84,19 +81,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T05:49:57.894Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\Win11Lockscreen\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Win11Lockscreen\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\Win11Lockscreen\\Form1.Designer.cs",
-              "RelativeToolTip": "Win11Lockscreen\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:02:34.298Z",
-              "EditorCaption": ""
             }
           ]
         }

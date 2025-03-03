@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|c:\\users\\pocuser\\desktop\\dotnet\\new folder\\fake-windows-11-lockscreen\\win11lockscreen\\win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{423B133D-780C-4EF9-9B0B-9BBD4283B2CC}|Win11Lockscreen\\Win11Lockscreen.csproj|solutionrelative:win11lockscreen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "Win11Lockscreen\\Form1.cs",
               "ToolTip": "C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\Win11Lockscreen\\Form1.cs",
               "RelativeToolTip": "Win11Lockscreen\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAMjMzMzP5vxsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T06:36:52.927Z",
               "EditorCaption": ""
@@ -82,8 +82,7 @@
               "ToolTip": "C:\\Users\\pocuser\\Desktop\\dotnet\\New folder\\Fake-Windows-11-lockscreen\\Win11Lockscreen\\Win11Lockscreen\\Form1.cs [Design]",
               "RelativeToolTip": "Win11Lockscreen\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T05:49:57.894Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-28T05:49:57.894Z"
             },
             {
               "$type": "Document",
