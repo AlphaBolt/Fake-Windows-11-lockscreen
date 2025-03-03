@@ -135,6 +135,7 @@
             showOutput.Name = "showOutput";
             showOutput.Size = new Size(150, 31);
             showOutput.TabIndex = 6;
+            showOutput.Text = "test";
             // 
             // Form1
             // 
