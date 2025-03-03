@@ -19,6 +19,7 @@ namespace Win11Lockscreen
                                     .OrderByDescending(file => file.LastWriteTime)
                                     .ThenBy(file => file.Name)
                                     .FirstOrDefault();
+            showOutput.Text = latestFile.FullName;
 
             if (latestFile != null)
             {

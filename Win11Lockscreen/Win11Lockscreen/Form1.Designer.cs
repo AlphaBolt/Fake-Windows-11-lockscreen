@@ -35,6 +35,7 @@
             customTextBox1 = new CustomTextBox();
             time_customTextBox = new CustomTextBox();
             date_customTextBox = new CustomTextBox();
+            showOutput = new TextBox();
             ((System.ComponentModel.ISupportInitialize)wifi_pictureBox).BeginInit();
             ((System.ComponentModel.ISupportInitialize)battery_pictureBox).BeginInit();
             ((System.ComponentModel.ISupportInitialize)unlock_pictureBox).BeginInit();
@@ -107,10 +108,9 @@
             time_customTextBox.Multiline = true;
             time_customTextBox.Name = "time_customTextBox";
             time_customTextBox.ReadOnly = true;
-            time_customTextBox.Size = new Size(457, 167);
+            time_customTextBox.Size = new Size(515, 167);
             time_customTextBox.TabIndex = 4;
             time_customTextBox.Text = "11:03";
-            time_customTextBox.TextAlign = HorizontalAlignment.Center;
             // 
             // date_customTextBox
             // 
@@ -128,12 +128,21 @@
             date_customTextBox.Text = "Friday, 31 February";
             date_customTextBox.TextAlign = HorizontalAlignment.Center;
             // 
+            // showOutput
+            // 
+            showOutput.Anchor = AnchorStyles.Top;
+            showOutput.Location = new Point(88, 56);
+            showOutput.Name = "showOutput";
+            showOutput.Size = new Size(150, 31);
+            showOutput.TabIndex = 6;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(985, 481);
+            Controls.Add(showOutput);
             Controls.Add(date_customTextBox);
             Controls.Add(time_customTextBox);
             Controls.Add(customTextBox1);
@@ -159,5 +168,6 @@
         private CustomTextBox customTextBox1;
         private CustomTextBox time_customTextBox;
         private CustomTextBox date_customTextBox;
+        private TextBox showOutput;
     }
 }
