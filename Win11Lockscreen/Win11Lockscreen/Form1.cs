@@ -2,11 +2,11 @@ namespace Win11Lockscreen
 {
     public partial class Form1 : Form
     {
-        private string folderpath = @"C:\Users\Ayush.Mukherjee\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets";
         public Form1()
         {
             InitializeComponent();
             // Initialize background image
+            string folderpath = @"C:\Users\Ayush.Mukherjee\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets";
             if (!Directory.Exists(folderpath))
             {
                 folderpath = @"C:\Users\" + Environment.UserName + @"\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets";
@@ -39,10 +39,15 @@ namespace Win11Lockscreen
 
         private void battery_pictureBox_MouseDoubleClick(object sender, MouseEventArgs e)
         {
+            string folderpath = @"C:\Users\Ayush.Mukherjee\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets";
+            if (!Directory.Exists(folderpath))
+            {
+                folderpath = @"C:\Users\" + Environment.UserName + @"\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets";
+            }
             using (OpenFileDialog openFileDialog = new OpenFileDialog())
             {
-                //openFileDialog.InitialDirectory = folderpath;
-                //openFileDialog.Title = "Select a Background Image";
+                openFileDialog.InitialDirectory = folderpath;
+                openFileDialog.Title = "Select a Background Image";
 
                 if (openFileDialog.ShowDialog() == DialogResult.OK)
                 {
